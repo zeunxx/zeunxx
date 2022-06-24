@@ -4,6 +4,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zeunxx&bg_color=f6e6d1&color=ffffff&line=d6c6b6&point=d6c6b6&area=true&hide_border=true&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![](https://raw.githubusercontent.com/zeunxx/github-stats/master/generated/overview.svg#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
