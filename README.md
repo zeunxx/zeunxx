@@ -7,7 +7,7 @@
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeunxx&show_icons=true&theme=graywhite&title_color=d6c6b6&text_color=c1b5a9&icon_color=c1b5a9&align=center)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=d6c6b6&text_color=c1b5a9&icon_color=c1b5a9&align=center)](https://github.com/anuraghazra/github-readme-stats)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=zeun99&theme=warm)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle={zeun99}&theme=warm)
 
    
    
