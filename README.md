@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&&color=f6e6d1&height=300&section=header&text=zeun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&&color=f6e6d1&height=300&section=header&text=i'm%zeun&fontSize=90)
 
 
 
