@@ -34,7 +34,7 @@
 
 <h3 align="center" style="color:#d6c6b6"  > :sparkles: My Notion :sparkles: </h3> 
 <p align="center">
-  <a href="[https://www.instagram.com/6_o777/](https://lopsided-acorn-81e.notion.site/3cf89d9667ba43fa895a3ac11c4e49da?pvs=4)">
+  <a href="https://www.instagram.com/6_o777/](https://lopsided-acorn-81e.notion.site/3cf89d9667ba43fa895a3ac11c4e49da?pvs=4">
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </p>
