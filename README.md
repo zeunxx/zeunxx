@@ -1,8 +1,11 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=d6c6b6&height=150&section=header&text=i'm%20zeun&fontSize=80)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=d6c6b6&height=150&section=header&text=zeun's%20GitHub&fontSize=80)
    
 </div>
+
+
+## 💡 Stacks
 
 **Tool & IDE**
 
@@ -12,9 +15,9 @@
 
 `Java` `Spring` `SpringBoot`  `JPA`
 
-`Python` `Flask` `FastAPI` `AWS`
+`Python` `Flask` `FastAPI` 
 
-`MySQL` `HTML5/CSS3`
+`AWS` `MySQL` `HTML5/CSS3`
 
 <BR>
 
